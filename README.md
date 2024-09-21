@@ -10,3 +10,4 @@
 - The implementation allows users to enter in parameters and be returned a call and put option price, as well as two heatmaps showing varying option prices at different volatilities and stock prices.
 - Built an interactive web app using **Streamlit** to make the model more user-friendly and accessible.
 - This project was heavily inspired by Coding Jesus' "Build this if you want to break into quant trading".
+- [web app link](https://binomialpm.streamlit.app/)
